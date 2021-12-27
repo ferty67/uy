@@ -1,0 +1,73 @@
+h1{
+    text-align: center;
+    font-weight:bold;
+    font-size:30pt;
+    color:DarkRed;
+}
+#s11{background: rgba(211, 76, 97, 0.27);
+font-size:16pt;
+}
+a{ border: 1px solid CornflowerBlue;
+padding:2px;
+margin:3px;
+text-decoration:none; 
+font-size:25pt;
+ font-family: Comic Sans MS; 
+ font-weight:bold;
+ color:DarkRed;
+background: rgb(224, 255, 255, 0.37)}
+
+ a:link {color: rgb(29, 1, 1)}
+        a:visited {color: rgb(77, 33, 33)}
+        a:active {color: rgb(66, 51, 51)}   
+
+   #s10{font-size:15px;
+    border: 1px solid CornflowerBlue;
+    padding:2px;
+    margin:3px;
+    text-decoration:none; 
+     font-family: Comic Sans MS; 
+     color:DarkRed;
+    background: rgb(224, 255, 255, 0.37)}
+  #s2  {
+	margin-left:10%;
+     background: rgba(50, 205, 50,0.6);
+     float: left;
+     width: 20%;
+     height: 100%;
+     border: 4px double black;
+     font-size:12pt;
+}
+#s3 {
+    margin-left:5%;
+     background: rgba(152, 251, 152,0.5);
+     float: left;
+     width: 60%;
+     height: 100%;
+     border: 4px double black;
+     font-size:16pt;
+}
+   
+
+
+
+
+
+.container {
+margin-left:10%;
+margin-top:5%;
+    display:inline-block;   
+    position:relative;
+}
+.container div { 
+color:DarkRed;
+font-weight:bold;
+margin-left:15%;
+margin-top:20%;
+font-size:32pt;
+    display: inline-block; 
+    position: absolute; 
+    bottom: 150px; left: 0px; 
+    padding: 5px 5px 5px 10px;
+    
+}
